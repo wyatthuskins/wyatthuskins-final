@@ -1,0 +1,22 @@
+{% extends '_layouts/base.njk' %}
+
+{% block page_title %}Discography{% endblock %}
+
+{% block page_description %}The albumns of Queen{% endblock %}
+
+{% block content %}
+<article class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      {% block info %}
+        <img src="img/img/queen-band-wallpaper.jpg" alt="queen" class="img-fluid">
+      {% endblock %}
+    </div>
+    <div class="col-sm-8">
+      {% block blurb %}
+        <h1>Discography</h1>
+      {% endblock %}
+    </div>
+  </div>
+</article>
+{% endblock %}
