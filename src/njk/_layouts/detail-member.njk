@@ -10,17 +10,12 @@
     <div class="col-xs-12 col-sm-4 col-md-4 col-lg-4">
       {% block info %}
         <img src="img/img/members/freddie-mercury-color.jpg" alt="freddie mercury" class="img-fluid">
-        <p>{{ members.name }}</p>
-        <p>{{ members.birthdate }}</p>
-        <p>{{ members.birthplace }}</p>
-        <p>{{ members.tenure }}</p>
-        <p>{{ members.instruments }}</p>
       {% endblock %}
     </div>
-    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-8">
-      {% block blurb %}
-        <h1>{{ members.name }}</h1>
-        <p>{{ members.text }}</p>
+    <div class="col-xs-12 col-sm-8 col-md-8 col-lg-6">
+      {% block story %}
+        <h1>Member name goes here</h1>
+        <p>Member text goes here</p>
       {% endblock %}
     </div>
   </div>
