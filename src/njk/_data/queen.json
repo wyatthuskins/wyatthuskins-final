@@ -48,76 +48,91 @@
   "discography": [
     {
       "title": "Queen",
+      "spotify": "https://open.spotify.com/album/64axF9Amc2ExcZbFs8btdv",
       "year": 1973,
       "image": "Queen_Queen.png"
     },
     {
       "title": "Queen II",
+      "spotify": "https://open.spotify.com/album/2RKEso6nin3nhRyAd36Omv",
       "year": 1974,
       "image": "Queen_Queen_II.jpg"
     },
     {
       "title": "Sheer Heart Attack",
+      "spotify": "https://open.spotify.com/album/6RJyYMIrOtx3VnNIoq31kj",
       "year": 1974,
       "image": "Queen_Sheer_Heart_Attack.png"
     },
     {
       "title": "A Night at the Opera",
+      "spotify": "https://open.spotify.com/album/6X9k3hSsvQck2OfKYdBbXr",
       "year": 1975,
       "image": "Queen_A_Night_At_The_Opera.png"
     },
     {
       "title": "A Day at the Races",
+      "spotify": "https://open.spotify.com/album/0lmQ6rAGcChLjGXM52Qu3i",
       "year": 1976,
       "image": "Queen_A_Day_at_the_Races.jpg"
     },
     {
       "title": "News of the World",
+      "spotify": "https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu",
       "year": 1977,
       "image": "Queen_News_Of_The_World.png"
     },
     {
       "title": "Jazz",
+      "spotify": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy",
       "year": 1978,
       "image": "Queen_Jazz.png"
     },
     {
       "title": "The Game",
+      "spotify": "https://open.spotify.com/album/6wPXUmYJ9mOWrKlLzZ5cCa",
       "year": 1980,
       "image": "Queen_The_Game.png"
     },
     {
       "title": "Flash Gordon (Original Soundtrack)",
+      "spotify": "https://open.spotify.com/album/0JCLXuGXJ7lKKOD5mc1Ela",
       "year": 1980,
       "image": "Queen_Flash_Gordon.png"
     },
     {
       "title": "Hot Space",
+      "spotify": "https://open.spotify.com/album/0xc5IpJM39eEEYSKDrm5kf",
       "year": 1982,
       "image": "Queen_Hot_Space.png"
     },
     {
       "title": "The Works",
+      "spotify": "https://open.spotify.com/album/7oHaj9jkWHByziQsqGAb8V",
       "year": 1984,
       "image": "Queen_The_Works.png"
     },
     {
       "title": "A Kind of Magic",
+      "spotify": "https://open.spotify.com/album/6QYnikkyKvjmFtTiZVeCW7",
       "year": 1986,
       "image": "Queen_A_Kind_Of_Magic.png"
     },
     {
       "title": "The Miracle",
+      "spotify": "https://open.spotify.com/album/0kCPII9EM5eqHHCRo1EVjs",
       "year": 1989,
       "image": "Queen_The_Miracle.png"
     },
     {
       "title": "Innuendo",
+      "spotify": "https://open.spotify.com/album/2LC6PPb29hs8rkPHBjUVXJ",
       "year": 1991,
       "image": "Queen_Innuendo.png"
     },
     {
       "title": "Made in Heaven",
+      "spotify": "https://open.spotify.com/album/4fODEKBcruDGTihYHvBXBD",
       "year": 1995,
       "image": "Queen_Made_in_Heaven.jpg"
     }

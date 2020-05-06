@@ -43,14 +43,66 @@
   }
 }
 
-h1.disc {
-  margin-bottom: 30px;
+h2, h5 {
+  font-family: 'Amiri', serif;
+  font-weight: bold;
 }
 
-h1.members {
-  text-align: center;
+h5.members, p, a.dropdown-item{
+  font-family: 'Amiri', serif;
+  font-size: large;
 }
 
-h5.members{
-  text-align: center;
+h1, li, p.jumbo{
+  font-family: 'Playfair Display', serif;
+}
+
+a:link, :visited {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+h1.jumbo {
+  padding-top: 10rem;
+  font-size: 70px;
+}
+
+p.jumbo {
+  font-size: 25px;
+}
+
+img.members {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+body {
+  background-color: gainsboro;
+}
+
+.early {
+  margin: 10px auto 20px;
+  display: block;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.card {
+  background-color: ghostwhite;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+h1.disc, h1.members, h1.main {
+  border-bottom: 5px, black, solid;
+  border-top: 5px, black, solid;
+  padding-bottom: 3px;
+}
+
+h2 {
+  text-decoration: underline solid black;
 }
